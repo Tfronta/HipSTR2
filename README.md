@@ -51,7 +51,7 @@ If you are running Ubuntu 16+, they can be easily installed by running:
 ## Installation
 HipSTR requires a standard c++ compiler. To obtain HipSTR, use:
 
-    git clone https://github.com/HipSTR-Tool/HipSTR
+    git clone https://github.com/Tfronta/HipSTR2 HipSTR
 
 To build, use Make:
 
